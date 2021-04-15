@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="utf-8">
+    <head>
+        <meta charset="utf-8">
+        <meta content="author" description= Beatriz Ferreira>
+        <title>page1.html</title>
+               
+    </head>
+    <body>
+        <h4>LINK:</h4>
+        <a href="file:///C:/Users/beatr/OneDrive/%C3%81rea%20de%20Trabalho/design%20uhu/Atividade%204%20-%20BEATRIZ%20FERREIRA%20DA%20SILVA/index.html" target="_blank">Clique aqui</a>
+
+        <hr>
+        <br>
+
+        <a href="#end">Clique aqui para ir para o fim da página</a>
+        <br>
+        <br>
+        <br>
+
+        <img src="pn.jpg" alt="Bairro de Ponta Negra" width="300" height="200"/>
+        <p>O famoso bairro costeiro de Ponta Negra é dominado por sua praia homônima,
+        que se estende em direção ao Morro do Careca, uma imponente duna de areia 
+        emoldurada pela vegetação. As barracas de praia com forro de palha servem 
+        cerveja e camarão grelhado, e também há quiosques de tapiocas, um prato regional
+        semelhante a crepes doces. O shopping do Artesanato Potiguar vende redes, cerâmicas
+        e doces artesanais.</p>
+        <br>
+        <br>
+        <br>
+        <img src="https://www.agrotama.com.br//upload/novo_produtos/trompetecomestojoemsittb5r_102030006.jpg" width="400" height="400"/>        
+        <blockquote>
+            <p>Beatriz Ferreira, criadora do trompete</p>
+        </blockquote>
+        <br>
+        <h1>não viva</h1>
+        <h2>para que sua presença</h2>
+        <h3>seja notada</h3>
+        <strong>mas sim para que</strong>
+        <i>sua falta</i>
+        <em>seja sentida</em>
+
+        <blockquote>
+            Bob Marley
+        </blockquote>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <br>
+        <br>
+        <br>
+        <a id="end">Fim</a>
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
